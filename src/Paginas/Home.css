@@ -1,0 +1,18 @@
+Button{
+    padding: 10px;
+   
+    font-size: 15px;
+    border-width: 0px;
+
+}
+.Kabum{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+    font-size: 18px;
+   
+    
+
+    
+}
